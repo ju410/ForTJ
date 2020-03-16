@@ -198,7 +198,7 @@ nav {z-index: 1;}
 .nav-link{
  text-decoration: none;
  color: #ffffff;
- font-family: '나눔고딕','NanumGothic',sans-serif;
+ font-family: 'Roboto',sans-serif;
  font-size: 500%;
  font-weight: bold;
  opacity: 0;
@@ -248,7 +248,7 @@ nav {z-index: 1;}
 .logo1,.logo2{
  text-decoration: none;
  color: #2114c1;
- font-family: '나눔고딕','NanumGothic',sans-serif;
+ font-family: 'Roboto', sans-serif;
  font-weight: bold;
 }
 .logo1{
@@ -280,7 +280,7 @@ nav {z-index: 1;}
 /*----------------------------nowimg--------------------------------*/
 .nowcontent{
  color: #2114c1;
- font-family: 'DXMSubtitlesM-KSCpc-EUC-H';
+ font-family: 'Open Sans', sans-serif;
  font-weight: normal;
  font-size: 150%;
 }
@@ -318,7 +318,7 @@ nav {z-index: 1;}
 .content{
  /* padding-top: 5%; */
  color: #2114c1;
- font-family: 'DXMSubtitlesM-KSCpc-EUC-H';
+ font-family: 'Open Sans', sans-serif;
  font-weight: normal;
  font-size: 150%;
  /* z-index: 0;
